@@ -1,2 +1,7 @@
 documents
 _book
+
+
+.idea/
+.vscode/
+gorm
